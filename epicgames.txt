@@ -12,3 +12,4 @@ download4.epicgames.com
 egdownload.fastly-edge.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
+egdownload.fastly-edge.com
