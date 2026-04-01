@@ -8,3 +8,4 @@ dl.cloudsmith.io
 deb.nodesource.com
 apt.authelia.com
 repos.influxdata.com
+archive.ubuntu.com
