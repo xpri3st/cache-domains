@@ -3,4 +3,13 @@ worldwide.l3cdn.riotgames.com
 riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
 *.dyn.riotcdn.net
+
+deb.debian.org
+ftp.us.debian.org
+security.debian.org
+archive.raspberrypi.com
+us.archive.ubuntu.com
 archive.ubuntu.com
+security.ubuntu.com
+http.kali.org
+download.proxmox.com
