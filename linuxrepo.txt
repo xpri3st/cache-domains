@@ -1,0 +1,10 @@
+deb.debian.org
+archive.raspberrypi.com
+us.archive.ubuntu.com
+security.ubuntu.com
+http.kali.org
+download.proxmox.com
+dl.cloudsmith.io
+deb.nodesource.com
+apt.authelia.com
+repos.influxdata.com
